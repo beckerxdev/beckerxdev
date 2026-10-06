@@ -37,5 +37,5 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIS. Jove
 
 ###
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+<i>"The Worlds Is Yours"</i> 
 </p>
