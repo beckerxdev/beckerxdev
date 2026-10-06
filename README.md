@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&pause=800&lines=Welcome,+To+My+Profile!;No+risk%2C+no+story)](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src=".github/Purple20Black20Software20LinkedIn%20Banner.gif" />
+  <img src=".github/becker-dev.gif" />
 </p>
 </h3>
 
