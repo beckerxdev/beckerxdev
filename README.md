@@ -7,7 +7,7 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIS. Jovem interessadp pela área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida.
+Atualmente sou estudante de Análise e Desenvolvimento de Software na UNIS. Jovem interessadp pela área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida.
  Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver.
 
 
