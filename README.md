@@ -37,5 +37,5 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIS. Jove
 
 ###
 <p align="center">
-<i>"The Worlds Is Yours"</i> 
+<i>"The World Is Yours"</i> 
 </p>
