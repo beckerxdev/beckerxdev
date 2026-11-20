@@ -7,7 +7,7 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Software na UNIS. Jovem interessado pela área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida.
+Atualmente sou estudante interessado pela área de programação e cibersegurança busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida.
  Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver.
 
 
@@ -20,6 +20,8 @@ Atualmente sou estudante de Análise e Desenvolvimento de Software na UNIS. Jove
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 <img width="12" />
 
 
